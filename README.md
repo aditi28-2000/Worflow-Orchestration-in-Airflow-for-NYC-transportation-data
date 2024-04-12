@@ -3,9 +3,11 @@ Utilised the Airflow workflow orchestration platform to extract, transform and l
 
 The Yellow Taxi trip data can be accessed using the following JSON API endpoints:
 
-2018: https://data.cityofnewyork.us/resource/t29m-gskq.jsonLinks to an external site.
-2019: https://data.cityofnewyork.us/resource/2upf-qytp.jsonLinks to an external site.
-2020: https://data.cityofnewyork.us/resource/kxp8-n2sj.jsonLinks to an external site.
+2018: https://data.cityofnewyork.us/resource/t29m-gskq.json
+
+2019: https://data.cityofnewyork.us/resource/2upf-qytp.json
+
+2020: https://data.cityofnewyork.us/resource/kxp8-n2sj.json
 
 Generated Monthly Summary Statistics reports providing the following information:
 
